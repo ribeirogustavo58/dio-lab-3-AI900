@@ -9,8 +9,6 @@ Por meio desse recurso, a Inteligência Artificial analisa textos para descobrir
 
 ...
 
-![Segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.2.png?raw=true)
-
 ![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.3.png?raw=true)
 
 ## Referências
